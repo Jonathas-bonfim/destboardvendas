@@ -10,7 +10,7 @@ function App() {
       <NavBar />
       <div className="container">
         {/* espaçamento na vertical de 3px */}
-        <h1 className="text-primary py-3">Dashboard de Vendas</h1>
+        <h1 className="text-primary py-3">Dashboard Vendas</h1>
 
         {/* espaçamento na horizontal de 3px */}
         <div className="row px-3">
