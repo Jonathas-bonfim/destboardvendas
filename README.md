@@ -26,3 +26,9 @@
   `yarn add @types/react-router-dom -D` <br/>
   `yarn add axios` <br/>
   `yarn add date-fns` <br/>
+  <br/>
+  <br/>
+  
+> #### Link to website: <https://dashboard-jonathas.netlify.app/dashboard>
+> #### Frontend link: <https://github.com/Jonathas-bonfim/destboardvendas/tree/master/frontend>
+> #### Backend Link: <https://github.com/Jonathas-bonfim/destboardvendas/tree/master/backend>
