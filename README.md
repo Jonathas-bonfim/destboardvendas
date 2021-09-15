@@ -1,4 +1,7 @@
 ## 👋👋 Hello, welcome to the sales dashboard app.
+
+![Capturar](https://user-images.githubusercontent.com/58302084/133490280-8e9103cf-fcec-4725-960e-a59db5e75bf5.PNG)
+
 #### The application aimed to implement a deshboard for sales analysis. The process was made from scratch, applying the following concepts.
 > **Frontend:** 
   * React JS (Routes, Hooks, States, Components, Charts, Tables...); <br/>
